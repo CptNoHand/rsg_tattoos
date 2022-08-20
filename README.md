@@ -15,6 +15,7 @@
 # Installation
 - ensure that the dependancies are added and started
 - add rsg_tattoos to your resources folder
+- install the sql called rsg_tattos.sql
 
 # Starting the resource
 - add the following to your server.cfg file : ensure rsg_tattoos
